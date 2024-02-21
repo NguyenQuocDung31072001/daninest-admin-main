@@ -1,0 +1,371 @@
+[
+    {
+      "_id": 0,
+      "fullName": "Uyên Trần",
+      "email": "lillypark@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "ADMIN"
+    },
+    {
+      "_id": 1,
+      "fullName": "Ngân Bùi",
+      "email": "yolandawhitehead@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 2,
+      "fullName": "Khoa Cao",
+      "email": "sophiamorgan@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 3,
+      "fullName": "Ngân Võ",
+      "email": "geraldineknapp@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 4,
+      "fullName": "Linh Nguyên",
+      "email": "williamstaylor@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 5,
+      "fullName": "Khởi Hoàng",
+      "email": "hartsims@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 6,
+      "fullName": "Uyên Ốc",
+      "email": "diannaguilar@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 7,
+      "fullName": "Bảo Võ",
+      "email": "johnstonguzman@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 8,
+      "fullName": "Uyên Trần",
+      "email": "justicerosales@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 9,
+      "fullName": "Huỳnh Cao",
+      "email": "bentonfrank@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 10,
+      "fullName": "Ngân Trần",
+      "email": "blakewoodward@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 11,
+      "fullName": "Bảo Nguyễn",
+      "email": "abbottadams@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 12,
+      "fullName": "Linh Trần",
+      "email": "ellisonshannon@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 13,
+      "fullName": "Minh Cao",
+      "email": "diannadillard@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 14,
+      "fullName": "Linh Nguyên",
+      "email": "erikamatthews@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 15,
+      "fullName": "Khoa Hồ",
+      "email": "forbeswolf@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 16,
+      "fullName": "Uyên Cao",
+      "email": "castrolynch@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 17,
+      "fullName": "Đại Trần",
+      "email": "gordonstein@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 18,
+      "fullName": "Ngân Trần",
+      "email": "loriethompson@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 19,
+      "fullName": "Ngân Bùi",
+      "email": "priscillapoole@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 20,
+      "fullName": "Khởi Nguyên",
+      "email": "karenlamb@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 21,
+      "fullName": "Uyên Đỗ",
+      "email": "petersarmstrong@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 22,
+      "fullName": "Thuý Trần",
+      "email": "daniellewilkerson@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 23,
+      "fullName": "Thuý Hồ",
+      "email": "brandicarson@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 24,
+      "fullName": "Thuý Nguyễn",
+      "email": "schmidtpickett@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 25,
+      "fullName": "Minh Hoàng",
+      "email": "elsaalford@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 26,
+      "fullName": "Ngân Bùi",
+      "email": "phoebewallace@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 27,
+      "fullName": "Khoa Võ",
+      "email": "charlesromero@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 28,
+      "fullName": "Thuý Nguyên",
+      "email": "caitlinvasquez@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 29,
+      "fullName": "Bảo Cao",
+      "email": "sheltonorr@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 30,
+      "fullName": "Khoa Cao",
+      "email": "craigcannon@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 31,
+      "fullName": "Thuý Đỗ",
+      "email": "tamekareilly@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 32,
+      "fullName": "Bảo Trần",
+      "email": "jillharper@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 33,
+      "fullName": "Huỳnh Cao",
+      "email": "maritzamayo@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 34,
+      "fullName": "Thuý Hồ",
+      "email": "bessiejarvis@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 35,
+      "fullName": "Minh Cao",
+      "email": "sharperiggs@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 36,
+      "fullName": "Minh Hồ",
+      "email": "doreenkelly@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 37,
+      "fullName": "Thuý Trần",
+      "email": "franklinward@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 38,
+      "fullName": "Bảo Hồ",
+      "email": "cecilewall@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 39,
+      "fullName": "Đại Hoàng",
+      "email": "yatescummings@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    },
+    {
+      "_id": 40,
+      "fullName": "Bảo Đỗ",
+      "email": "harrisonfowler@applica.com",
+      "password": "happy2code",
+      "isVerified": true,
+      "isBlocked": false,
+      "role": "CUSTOMER"
+    }
+  ]
