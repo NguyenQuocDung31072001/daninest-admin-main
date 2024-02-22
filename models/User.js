@@ -2,6 +2,7 @@ const mongoose = require('mongoose')
 const bcrypt = require('bcrypt')
 
 const UserSchema = mongoose.Schema({
+  _id: { type: mongoose.Schema.Types.Mixed, required: true },
   fullName: {
     type: String,
     required: true

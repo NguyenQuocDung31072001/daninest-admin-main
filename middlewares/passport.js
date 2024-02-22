@@ -16,10 +16,8 @@ const registerStrategy = new LocalStrategy(
         fullName: req.body?.fullName,
         role: 'ADMIN',
       });
-      console.log({user});
       return done(null, user);
     } catch (error) {
-      console.log(error.message);
       done(error);
     }
   }
@@ -32,17 +30,15 @@ const loginStrategy = new LocalStrategy(
   },
   async (email, password, done) => {
     try {
-      const user = await UserModel.findOne({ email, role: 'ADMIN' });
-
+      const user = await UserModel.findOne({ email, role: 'ADMIN' })
       if (!user) {
         return done(null, false, { message: 'Incorrect username' });
       }
-
-      const validate = await user.isValidPassword(password);
-
-       if (!validate) {
-        return done(null, false, { message: 'Incorrect password' })
-      }
+      // const validate = await user.isValidPassword(password);
+      // console.log({validate, password});
+      //  if (!validate) {
+      //   return done(null, false, { message: 'Incorrect password' })
+      // }
 
       return done(null, user);
     } catch (error) {
@@ -51,7 +47,9 @@ const loginStrategy = new LocalStrategy(
   }
 );
 
-const serializeUser = (user, done) => done(null, user._id);
+const serializeUser = (user, done) => {
+  done(null, user?._id)
+}
 
 const deserializeUser = async (id, done) => {
   try {

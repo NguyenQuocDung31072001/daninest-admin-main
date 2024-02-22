@@ -2,7 +2,6 @@ const bcrypt = require('bcrypt')
 const { UserModel } = require('../models/')
 
 const getProfile = (req, res) => {
-  console.log({req, res});
   res.render('profile/me')
 }
 
